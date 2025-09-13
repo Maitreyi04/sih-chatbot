@@ -1,0 +1,17 @@
+import requests
+
+def call_api(user_input):
+    """
+    Calls an external API for emotion detection or response generation.
+    Replace URL with the actual API endpoint.
+    """
+    url = "https://your-api-endpoint.com/chat"
+    payload = {"message": user_input}
+    try:
+        response = requests.post(url, json=payload, timeout=5)
+        if response.status_code == 200:
+            return response.json().get("reply", "I'm here for you.")
+        else:
+            return "⚠️ API error, falling back to offline mode."
+    except:
+        return "⚠️ API not reachable, using offline mode."

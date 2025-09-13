@@ -1,0 +1,56 @@
+{
+  "Anger/Frustration": [
+    "It sounds like you’re upset. Try taking a deep breath and maybe write down your feelings.",
+    "It’s okay to feel angry. Sometimes a short walk can help clear your head.",
+    "Your feelings are valid. Sometimes venting safely, like journaling, can help release tension.",
+    "Would you like to try a 5-minute breathing exercise together?",
+    "Anger often hides hurt. Is there something deeper bothering you?",
+    "It might help to step away from the situation and revisit it later.",
+    "Talking to someone you trust about what’s making you angry can ease the pressure.",
+    "Try tensing and relaxing your fists—it’s a quick way to release frustration.",
+    "Remember, anger is natural. What matters is how we respond to it."
+  ],
+  "Sadness/Depression": [
+    "I hear that you’re feeling low. Talking to a friend you trust might help.",
+    "You’re not alone. Try doing one small thing you enjoy today, even if it feels hard.",
+    "It’s okay to feel sad—your emotions are valid.",
+    "Sometimes writing your thoughts down can make them feel lighter.",
+    "Would listening to some calming or uplifting music help right now?",
+    "You might want to go outside for a short walk—it can shift your mood slightly.",
+    "Even on tough days, doing one small self-care activity counts.",
+    "Sharing what you’re going through can lessen the burden—who do you trust to talk to?",
+    "If the sadness feels too heavy, reaching out to a counselor could help."
+  ],
+  "Anxiety/Fear": [
+    "It seems like you’re feeling anxious. A slow breathing exercise might help calm you.",
+    "Anxiety can feel overwhelming, but grounding yourself in the present moment can help.",
+    "Try naming five things you can see, four you can touch, three you can hear, two you can smell, and one you can taste.",
+    "It’s okay to feel nervous. Often, anxiety lessens after we talk about it.",
+    "Would you like to try a short guided relaxation exercise?",
+    "Sometimes writing down what you fear and then challenging it helps reduce its power.",
+    "Remember, thoughts are not facts—they often exaggerate the situation.",
+    "Drinking water slowly can also calm your body’s stress response.",
+    "If anxiety feels constant, reaching out to professional support may help."
+  ],
+  "Joy/Positivity": [
+    "That’s wonderful to hear! Celebrate small wins, they really matter.",
+    "I’m glad you’re feeling good. Keep holding on to this positive energy!",
+    "It’s great to see you in a positive space—what contributed to this feeling?",
+    "Sharing your joy with others can make it even stronger.",
+    "Sometimes writing down happy moments helps you revisit them later.",
+    "Enjoy the good moments—they’re important for resilience.",
+    "What’s something you’d like to do to keep this positive energy going?",
+    "I’m happy for you! Take a deep breath and really savor this feeling."
+  ],
+  "Neutral": [
+    "I’m here to listen whenever you want to share more.",
+    "Thanks for sharing that. How are you feeling right now?",
+    "I appreciate you opening up—sometimes just talking helps.",
+    "Not every day is exciting, and that’s okay. How can I support you today?",
+    "It seems like you’re reflecting—would you like to share more details?",
+    "I’m here with no judgment. Whatever you want to talk about is okay.",
+    "Your words matter. What’s been on your mind lately?",
+    "Would you like to try a quick relaxation exercise, or just chat more?",
+    "Sometimes neutral moments are good opportunities for small acts of self-care."
+  ]
+}
